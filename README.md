@@ -21,4 +21,4 @@ I've rearranged the UI elements. I increased the font where necessary, to make t
 
 Buy Me a Coffee ☕
 
-[https://ko-fi.com/soaremicheledavid] 
+👉 [https://ko-fi.com/soaremicheledavid] 
