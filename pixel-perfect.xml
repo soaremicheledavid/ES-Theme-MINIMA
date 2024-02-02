@@ -106,16 +106,16 @@
    </view>
    <view ifSubset="gamelist-view-style:metadata-on|metadata-on-immersive" name="detailed">
       <image name="md_image">
-         <pos>0.75 0.322916666666667</pos><!-- 480 155 -->
-         <maxSize ifSubset="gamelist-view-style:metadata-on">0.30777 0.520833333333333</maxSize><!-- 260 250 -->
+         <pos>0.72 0.342</pos><!-- 480 155 -->
+         <maxSize ifSubset="gamelist-view-style:metadata-on">0.420 0.600</maxSize><!-- 260 250 -->
          <maxSize ifSubset="gamelist-view-style:metadata-on-immersive">1 1</maxSize><!-- 480 480 -->
          <zIndex>2</zIndex>
       </image>
    </view>
    <view ifSubset="gamelist-view-style:metadata-on|metadata-on-immersive" name="video">
       <video name="md_video">
-         <pos>0.75 0.322916666666667</pos><!-- 480 155 -->
-         <maxSize ifSubset="gamelist-view-style:metadata-on">0.30777 0.520833333333333</maxSize><!-- 260 250 -->
+         <pos>0.72 0.342</pos><!-- 480 155 -->
+         <maxSize ifSubset="gamelist-view-style:metadata-on">0.410 0.550</maxSize><!-- 260 250 -->
          <maxSize ifSubset="gamelist-view-style:metadata-on-immersive">1 1</maxSize><!-- 480 480 -->
          <zIndex>2</zIndex>
       </video>
