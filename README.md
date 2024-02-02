@@ -33,7 +33,7 @@ These are photos, not screenshots :
 ![RED-GAMELIST](https://github.com/soaremicheledavid/ES-Theme-MINIMA/assets/157101299/7057754e-7b3b-482e-aff5-0d7b2ec1d3ed)
 
 
-# LICENSE CC BY-NC-SA 4.0 ©SMDOFFICIAL
+# LICENSE CC BY-NC-SA 4.0 © SMD OFFICIAL
 
 You are free to:
 Share — copy and redistribute the material in any medium or format
