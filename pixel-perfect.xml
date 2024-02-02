@@ -50,7 +50,7 @@
          <fontSize>0.05</fontSize>
       </text>
       <textlist name="gamelist">
-         <fontSize>0.032</fontSize><!-- 19 -->
+         <fontSize>0.039</fontSize><!-- 19 -->
          <lineSpacing>1.5125</lineSpacing>
       </textlist>
    </view>
@@ -64,7 +64,7 @@
       </text>
       <textlist name="gamelist">
          <pos>0.5 0.229166666666667</pos><!-- 50% 110 -->
-         <size>0.84375 0.725</size><!-- 540 348 -->
+         <size>0.800 0.650</size><!-- 540 348 -->
       </textlist>
    </view>
 
@@ -78,7 +78,7 @@
       <textlist name="gamelist">
          <origin>0 0</origin>
          <pos>0.0546875 0.229166666666667</pos><!-- 35 110 -->
-         <size>0.375 0.725</size><!-- 240 348 -->
+         <size>0.375 0.707</size><!-- 240 348 -->
       </textlist>
       <image name="gamelist-background" extra="true">
          <size>0.5 1</size><!-- 320 480 -->
