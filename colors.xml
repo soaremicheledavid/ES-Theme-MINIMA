@@ -16,14 +16,14 @@
       <gamelistListTextlistSelectedColor>ffffff</gamelistListTextlistSelectedColor>
       <gamelistListTextlistUnselectedColor>696969</gamelistListTextlistUnselectedColor>
       <gamelistListMetadataBackgroundColor>111111</gamelistListMetadataBackgroundColor>
-      <gamelistListMetadataColor>f4cf00</gamelistListMetadataColor>
-      <gamelistListMetadataIconColor>ffd800</gamelistListMetadataIconColor>
+      <gamelistListMetadataColor>101010</gamelistListMetadataColor>
+      <gamelistListMetadataIconColor>101010</gamelistListMetadataIconColor>
       <gamelistListDescriptionColor>ecc93b</gamelistListDescriptionColor>
       <gamelistListRatingColor>ffb400</gamelistListRatingColor>
       <!-- Help System -->
       <helpBackgroundColor>0c0b0b</helpBackgroundColor>
-      <helpIconColor>fafafa</helpIconColor>
-      <helpTextColor>fafafa</helpTextColor>
+      <helpIconColor>eabb00</helpIconColor>
+      <helpTextColor>eabb00</helpTextColor>
       <!-- Menu System -->
       <menuBackgroundColor>0c0b0b</menuBackgroundColor>
       <statusBarBackgroundColor>111111</statusBarBackgroundColor>
