@@ -111,7 +111,7 @@ author:       By SMD © 2024
       </image>
       <text name="logoText">
          <color>${systemLogoColor}</color>
-         <fontSize>0.15</fontSize>
+         <fontSize>0.16</fontSize>
       </text>
       <carousel name="systemcarousel">
          <origin>0 0</origin>
@@ -119,8 +119,8 @@ author:       By SMD © 2024
          <size>1 1</size>
          <color>00000000</color>
          <type>horizontal</type>
-         <logoScale>2</logoScale>
-         <logoSize>0.25 0.15</logoSize>
+         <logoScale>2.5</logoScale>
+         <logoSize>0.25 0.16</logoSize>
          <maxLogoCount>2</maxLogoCount>
          <maxLogoCount ifSubset="system-view-style:centered-one-logo">1</maxLogoCount>
          <scrollSound>./_inc/sounds/scroll.wav</scrollSound>
