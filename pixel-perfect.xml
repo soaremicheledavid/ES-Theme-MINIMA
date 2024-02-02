@@ -77,7 +77,7 @@
       </text>
       <textlist name="gamelist">
          <origin>0 0</origin>
-         <pos>0.0546875 0.229166666666667</pos><!-- 35 110 -->
+         <pos>0.0330 0.207</pos><!-- 35 110 -->
          <size>0.375 0.707</size><!-- 240 348 -->
       </textlist>
       <image name="gamelist-background" extra="true">
