@@ -105,7 +105,7 @@
       <gamelistListMetadataBackgroundColor>111111</gamelistListMetadataBackgroundColor>
       <gamelistListMetadataColor>111111</gamelistListMetadataColor>
       <gamelistListMetadataIconColor>b41111</gamelistListMetadataIconColor>
-      <gamelistListDescriptionColor>b41111</gamelistListDescriptionColor>
+      <gamelistListDescriptionColor>ffffff</gamelistListDescriptionColor>
       <gamelistListRatingColor>b41111</gamelistListRatingColor>
       <!-- Help System -->
       <helpBackgroundColor>b41111</helpBackgroundColor>
