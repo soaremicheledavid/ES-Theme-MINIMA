@@ -26,10 +26,12 @@ These are photos, not screenshots :
 
 
 ![YELLOW-FRONT](https://github.com/soaremicheledavid/ES-Theme-MINIMA/assets/157101299/b4f0c0e1-662c-4275-956c-8657e5d1d918)
+
 ![YELLOW-GAMELIST](https://github.com/soaremicheledavid/ES-Theme-MINIMA/assets/157101299/c9893015-0668-448f-9be8-4c8e136d6d34)
 
 
 ![RED-FRONT](https://github.com/soaremicheledavid/ES-Theme-MINIMA/assets/157101299/e1443719-496c-4621-9c91-525b3cdc3b2c)
+
 ![RED-GAMELIST](https://github.com/soaremicheledavid/ES-Theme-MINIMA/assets/157101299/7057754e-7b3b-482e-aff5-0d7b2ec1d3ed)
 
 
