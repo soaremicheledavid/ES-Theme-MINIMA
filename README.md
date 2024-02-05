@@ -24,12 +24,13 @@ I've rearranged the UI elements, I increased the font where necessary, flat elem
 
 These are photos, not screenshots :
 
+![RED-GAMELIST](https://github.com/soaremicheledavid/ES-Theme-MINIMA/assets/157101299/be05d3ff-a9d6-4483-b3a9-65a50fc0efe5)
+
 
 ![YELLOW-FRONT](https://github.com/soaremicheledavid/ES-Theme-MINIMA/assets/157101299/b4f0c0e1-662c-4275-956c-8657e5d1d918)
 
 ![YELLOW-GAMELIST](https://github.com/soaremicheledavid/ES-Theme-MINIMA/assets/157101299/c9893015-0668-448f-9be8-4c8e136d6d34)
 
-![RED-GAMELIST](https://github.com/soaremicheledavid/ES-Theme-MINIMA/assets/157101299/be05d3ff-a9d6-4483-b3a9-65a50fc0efe5)
 
 
 # LICENSE CC BY-NC-SA 4.0 © SMD OFFICIAL
