@@ -29,8 +29,7 @@ These are photos, not screenshots :
 
 ![YELLOW-GAMELIST](https://github.com/soaremicheledavid/ES-Theme-MINIMA/assets/157101299/c9893015-0668-448f-9be8-4c8e136d6d34)
 
-
-![RED-FRONT](https://github.com/soaremicheledavid/ES-Theme-MINIMA/assets/157101299/e1443719-496c-4621-9c91-525b3cdc3b2c)
+![RED-FRONT](https://github.com/soaremicheledavid/ES-Theme-MINIMA/assets/157101299/23d1492d-8a21-44a5-beef-875458d4d129)
 
 ![RED-GAMELIST](https://github.com/soaremicheledavid/ES-Theme-MINIMA/assets/157101299/7057754e-7b3b-482e-aff5-0d7b2ec1d3ed)
 
