@@ -67,23 +67,23 @@
       <systemArtSaturation>0</systemArtSaturation>
       <systemArtFade>b5b5b5</systemArtFade>
       <systemMaskColor>111111</systemMaskColor>
-      <systemLogoColor>111111</systemLogoColor>
+      <systemLogoColor>060606</systemLogoColor>
       <!-- Gamelist View - List Variants -->
-      <gamelistListTextlistBackgroundColor>111111</gamelistListTextlistBackgroundColor>
-      <gamelistListLogoColor>b5b5b5</gamelistListLogoColor>
+      <gamelistListTextlistBackgroundColor>b5b5b5</gamelistListTextlistBackgroundColor>
+      <gamelistListLogoColor>060606</gamelistListLogoColor>
       <gamelistListTextlistSelectedColor>ffffff</gamelistListTextlistSelectedColor>
-      <gamelistListTextlistUnselectedColor>696969</gamelistListTextlistUnselectedColor>
-      <gamelistListMetadataBackgroundColor>0d0d0d</gamelistListMetadataBackgroundColor>
+      <gamelistListTextlistUnselectedColor>060606</gamelistListTextlistUnselectedColor>
+      <gamelistListMetadataBackgroundColor>b5b5b5</gamelistListMetadataBackgroundColor>
       <gamelistListMetadataColor>b5b5b5</gamelistListMetadataColor>
       <gamelistListMetadataIconColor>b5b5b5</gamelistListMetadataIconColor>
-      <gamelistListDescriptionColor>b5b5b5</gamelistListDescriptionColor>
-      <gamelistListRatingColor>b5b5b5</gamelistListRatingColor>
+      <gamelistListDescriptionColor>0b0b0b</gamelistListDescriptionColor>
+      <gamelistListRatingColor>ffffff</gamelistListRatingColor>
       <!-- Help System -->
       <helpBackgroundColor>080808</helpBackgroundColor>
       <helpIconColor>fafafa</helpIconColor>
       <helpTextColor>fafafa</helpTextColor>
       <!-- Menu System -->
-      <menuBackgroundColor>080808</menuBackgroundColor>
+      <menuBackgroundColor>6e6e6e</menuBackgroundColor>
       <statusBarBackgroundColor>0b0b0b</statusBarBackgroundColor>
       <statusBarIconColor>0b0b0b</statusBarIconColor>
    </variables>
@@ -196,11 +196,11 @@
       <gamelistListRatingColor>434343</gamelistListRatingColor>
       <!-- Help System -->
       <helpBackgroundColor>080808</helpBackgroundColor>
-      <helpIconColor>fafafa</helpIconColor>
-      <helpTextColor>fafafa</helpTextColor>
+      <helpIconColor>828282</helpIconColor>
+      <helpTextColor>828282</helpTextColor>
       <!-- Menu System -->
       <menuBackgroundColor>080808</menuBackgroundColor>
-      <statusBarBackgroundColor>0b0b0b</statusBarBackgroundColor>
-      <statusBarIconColor>0b0b0b</statusBarIconColor>
+      <statusBarBackgroundColor>828282</statusBarBackgroundColor>
+      <statusBarIconColor>828282</statusBarIconColor>
    </variables>
 </theme>

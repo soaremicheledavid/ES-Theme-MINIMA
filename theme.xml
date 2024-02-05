@@ -374,7 +374,7 @@ author:       By SMD © 2024
   <view name="screen">
     
 	<text name="clock">
-      <color>111111</color>
+      <color>${statusBarIconColor}</color>
           <fontPath>./_inc/fonts/Oxygen-Bold.ttf</fontPath>
       <fontSize>0.039</fontSize>
       <pos>0.02 0</pos>
