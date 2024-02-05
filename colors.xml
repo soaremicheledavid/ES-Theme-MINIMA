@@ -193,7 +193,7 @@
       <gamelistListMetadataColor>434343</gamelistListMetadataColor>
       <gamelistListMetadataIconColor>434343</gamelistListMetadataIconColor>
       <gamelistListDescriptionColor>434343</gamelistListDescriptionColor>
-      <gamelistListRatingColor>434343</gamelistListRatingColor>
+      <gamelistListRatingColor>ffffff</gamelistListRatingColor>
       <!-- Help System -->
       <helpBackgroundColor>080808</helpBackgroundColor>
       <helpIconColor>828282</helpIconColor>
