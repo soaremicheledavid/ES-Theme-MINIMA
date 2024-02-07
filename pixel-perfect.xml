@@ -12,8 +12,8 @@
       <helpsystem name="help">
          <origin>0 0</origin>
          <pos>0.18 0.95</pos>
-         <textColor>2e2e2e</textColor>
-         <iconColor>2e2e2e</iconColor>
+         <textColor>${statusBarIconColor}</textColor>
+         <iconColor>${statusBarIconColor}</iconColor>
       </helpsystem>
    </view>
 

@@ -21,13 +21,13 @@
       <gamelistListDescriptionColor>ffffff</gamelistListDescriptionColor>
       <gamelistListRatingColor>ffb400</gamelistListRatingColor>
       <!-- Help System -->
-      <helpBackgroundColor>040404</helpBackgroundColor>
-      <helpIconColor>eabb00</helpIconColor>
-      <helpTextColor>eabb00</helpTextColor>
+      <helpBackgroundColor>1a1a1a</helpBackgroundColor>
+      <helpIconColor>1a1a1a</helpIconColor>
+      <helpTextColor>1a1a1a</helpTextColor>
       <!-- Menu System -->
       <menuBackgroundColor>040404</menuBackgroundColor>
-      <statusBarBackgroundColor>040404</statusBarBackgroundColor>
-      <statusBarIconColor>040404</statusBarIconColor>
+      <statusBarBackgroundColor>1a1a1a</statusBarBackgroundColor>
+      <statusBarIconColor>1a1a1a</statusBarIconColor>
    </variables>
    <variables ifSubset="color-scheme:green-black">
       <backgroundColor>48943e</backgroundColor>
@@ -50,13 +50,13 @@
       <gamelistListDescriptionColor>ffffff</gamelistListDescriptionColor>
       <gamelistListRatingColor>48943e</gamelistListRatingColor>
       <!-- Help System -->
-      <helpBackgroundColor>040404</helpBackgroundColor>
-      <helpIconColor>fafafa</helpIconColor>
-      <helpTextColor>fafafa</helpTextColor>
+      <helpBackgroundColor>1a1a1a</helpBackgroundColor>
+      <helpIconColor>1a1a1a</helpIconColor>
+      <helpTextColor>1a1a1a</helpTextColor>
       <!-- Menu System -->
       <menuBackgroundColor>040404</menuBackgroundColor>
-      <statusBarBackgroundColor>0b0b0b</statusBarBackgroundColor>
-      <statusBarIconColor>040404</statusBarIconColor>
+      <statusBarBackgroundColor>1a1a1a</statusBarBackgroundColor>
+      <statusBarIconColor>1a1a1a</statusBarIconColor>
    </variables>
 <variables ifSubset="color-scheme:grey-black">
       <backgroundColor>b5b5b5</backgroundColor>
@@ -108,13 +108,13 @@
       <gamelistListDescriptionColor>ffffff</gamelistListDescriptionColor>
       <gamelistListRatingColor>b41111</gamelistListRatingColor>
       <!-- Help System -->
-      <helpBackgroundColor>b41111</helpBackgroundColor>
-      <helpIconColor>fafafa</helpIconColor>
-      <helpTextColor>fafafa</helpTextColor>
+      <helpBackgroundColor>f8f8f8</helpBackgroundColor>
+      <helpIconColor>f8f8f8</helpIconColor>
+      <helpTextColor>f8f8f8</helpTextColor>
       <!-- Menu System -->
       <menuBackgroundColor>b41111</menuBackgroundColor>
-      <statusBarBackgroundColor>040404</statusBarBackgroundColor>
-      <statusBarIconColor>040404</statusBarIconColor>
+      <statusBarBackgroundColor>f8f8f8</statusBarBackgroundColor>
+      <statusBarIconColor>f8f8f8</statusBarIconColor>
    </variables>
 <variables ifSubset="color-scheme:grey-purple">
       <backgroundColor>b5b5b5</backgroundColor>
@@ -137,13 +137,13 @@
       <gamelistListDescriptionColor>b5b5b5</gamelistListDescriptionColor>
       <gamelistListRatingColor>aaa7de</gamelistListRatingColor>
       <!-- Help System -->
-      <helpBackgroundColor>646464</helpBackgroundColor>
-      <helpIconColor>fafafa</helpIconColor>
-      <helpTextColor>fafafa</helpTextColor>
+      <helpBackgroundColor>202020</helpBackgroundColor>
+      <helpIconColor>202020</helpIconColor>
+      <helpTextColor>202020</helpTextColor>
       <!-- Menu System -->
       <menuBackgroundColor>646464</menuBackgroundColor>
-      <statusBarBackgroundColor>0b0b0b</statusBarBackgroundColor>
-      <statusBarIconColor>0b0b0b</statusBarIconColor>
+      <statusBarBackgroundColor>202020</statusBarBackgroundColor>
+      <statusBarIconColor>202020</statusBarIconColor>
    </variables>
 <variables ifSubset="color-scheme:grey-blue">
       <backgroundColor>d1d1d1</backgroundColor>
@@ -160,19 +160,19 @@
       <gamelistListLogoColor>2768a9</gamelistListLogoColor>
       <gamelistListTextlistSelectedColor>ffffff</gamelistListTextlistSelectedColor>
       <gamelistListTextlistUnselectedColor>696969</gamelistListTextlistUnselectedColor>
-      <gamelistListMetadataBackgroundColor>0d0d0d</gamelistListMetadataBackgroundColor>
-      <gamelistListMetadataColor>d1d1d1</gamelistListMetadataColor>
-      <gamelistListMetadataIconColor>d1d1d1</gamelistListMetadataIconColor>
+      <gamelistListMetadataBackgroundColor>111111</gamelistListMetadataBackgroundColor>
+      <gamelistListMetadataColor>111111</gamelistListMetadataColor>
+      <gamelistListMetadataIconColor>111111</gamelistListMetadataIconColor>
       <gamelistListDescriptionColor>d1d1d1</gamelistListDescriptionColor>
       <gamelistListRatingColor>2768a9</gamelistListRatingColor>
       <!-- Help System -->
-      <helpBackgroundColor>13375b</helpBackgroundColor>
-      <helpIconColor>fafafa</helpIconColor>
-      <helpTextColor>fafafa</helpTextColor>
+      <helpBackgroundColor>212121</helpBackgroundColor>
+      <helpIconColor>212121</helpIconColor>
+      <helpTextColor>212121</helpTextColor>
       <!-- Menu System -->
       <menuBackgroundColor>13375b</menuBackgroundColor>
-      <statusBarBackgroundColor>0b0b0b</statusBarBackgroundColor>
-      <statusBarIconColor>0b0b0b</statusBarIconColor>
+      <statusBarBackgroundColor>212121</statusBarBackgroundColor>
+      <statusBarIconColor>212121</statusBarIconColor>
    </variables>
 <variables ifSubset="color-scheme:pure-black">
       <backgroundColor>000000</backgroundColor>
