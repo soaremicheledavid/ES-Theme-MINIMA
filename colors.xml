@@ -21,13 +21,13 @@
       <gamelistListDescriptionColor>ffffff</gamelistListDescriptionColor>
       <gamelistListRatingColor>ffb400</gamelistListRatingColor>
       <!-- Help System -->
-      <helpBackgroundColor>1a1a1a</helpBackgroundColor>
-      <helpIconColor>1a1a1a</helpIconColor>
-      <helpTextColor>1a1a1a</helpTextColor>
+      <helpBackgroundColor>696969</helpBackgroundColor>
+      <helpIconColor>696969</helpIconColor>
+      <helpTextColor>696969</helpTextColor>
       <!-- Menu System -->
       <menuBackgroundColor>040404</menuBackgroundColor>
-      <statusBarBackgroundColor>1a1a1a</statusBarBackgroundColor>
-      <statusBarIconColor>1a1a1a</statusBarIconColor>
+      <statusBarBackgroundColor>696969</statusBarBackgroundColor>
+      <statusBarIconColor>696969</statusBarIconColor>
    </variables>
    <variables ifSubset="color-scheme:green-black">
       <backgroundColor>48943e</backgroundColor>
@@ -50,13 +50,13 @@
       <gamelistListDescriptionColor>ffffff</gamelistListDescriptionColor>
       <gamelistListRatingColor>48943e</gamelistListRatingColor>
       <!-- Help System -->
-      <helpBackgroundColor>1a1a1a</helpBackgroundColor>
-      <helpIconColor>1a1a1a</helpIconColor>
-      <helpTextColor>1a1a1a</helpTextColor>
+      <helpBackgroundColor>696969</helpBackgroundColor>
+      <helpIconColor>696969</helpIconColor>
+      <helpTextColor>696969</helpTextColor>
       <!-- Menu System -->
       <menuBackgroundColor>040404</menuBackgroundColor>
-      <statusBarBackgroundColor>1a1a1a</statusBarBackgroundColor>
-      <statusBarIconColor>1a1a1a</statusBarIconColor>
+      <statusBarBackgroundColor>696969</statusBarBackgroundColor>
+      <statusBarIconColor>696969</statusBarIconColor>
    </variables>
 <variables ifSubset="color-scheme:grey-black">
       <backgroundColor>b5b5b5</backgroundColor>
@@ -137,13 +137,13 @@
       <gamelistListDescriptionColor>b5b5b5</gamelistListDescriptionColor>
       <gamelistListRatingColor>aaa7de</gamelistListRatingColor>
       <!-- Help System -->
-      <helpBackgroundColor>202020</helpBackgroundColor>
-      <helpIconColor>202020</helpIconColor>
-      <helpTextColor>202020</helpTextColor>
+      <helpBackgroundColor>696969</helpBackgroundColor>
+      <helpIconColor>696969</helpIconColor>
+      <helpTextColor>696969</helpTextColor>
       <!-- Menu System -->
       <menuBackgroundColor>646464</menuBackgroundColor>
-      <statusBarBackgroundColor>202020</statusBarBackgroundColor>
-      <statusBarIconColor>202020</statusBarIconColor>
+      <statusBarBackgroundColor>696969</statusBarBackgroundColor>
+      <statusBarIconColor>696969</statusBarIconColor>
    </variables>
 <variables ifSubset="color-scheme:grey-blue">
       <backgroundColor>d1d1d1</backgroundColor>
@@ -166,13 +166,13 @@
       <gamelistListDescriptionColor>d1d1d1</gamelistListDescriptionColor>
       <gamelistListRatingColor>2768a9</gamelistListRatingColor>
       <!-- Help System -->
-      <helpBackgroundColor>212121</helpBackgroundColor>
-      <helpIconColor>212121</helpIconColor>
-      <helpTextColor>212121</helpTextColor>
+      <helpBackgroundColor>696969</helpBackgroundColor>
+      <helpIconColor>696969</helpIconColor>
+      <helpTextColor>696969</helpTextColor>
       <!-- Menu System -->
       <menuBackgroundColor>13375b</menuBackgroundColor>
-      <statusBarBackgroundColor>212121</statusBarBackgroundColor>
-      <statusBarIconColor>212121</statusBarIconColor>
+      <statusBarBackgroundColor>696969</statusBarBackgroundColor>
+      <statusBarIconColor>696969</statusBarIconColor>
    </variables>
 <variables ifSubset="color-scheme:pure-black">
       <backgroundColor>000000</backgroundColor>
