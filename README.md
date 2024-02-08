@@ -31,7 +31,12 @@ These are photos, not screenshots :
 
 ![YELLOW-GAMELIST](https://github.com/soaremicheledavid/ES-Theme-MINIMA/assets/157101299/c9893015-0668-448f-9be8-4c8e136d6d34)
 
-
+## **Acknowledgments**
+* Most system logos were sourced and modified from the excellent work done by Dan Patrick [here](https://archive.org/details/console-logos-professionally-redrawn-plus-official-versions).  They have been modified to be compatible with EmulationStation's current SVG support.
+* ChangaOne font is by [Eduardo Tunni](https://www.fontsquirrel.com/fonts/changa)
+* Oxygen font is by [Vernon Adams](https://www.fontsquirrel.com/fonts/oxygen)
+* Metadata & Menu Icons sourced from [FontAwesome](https://fontawesome.com/search?o=r&m=free)
+* Gamelist layout and `theme-customizations` approach were sourced from [Art-Book-Next](https://github.com/anthonycaccese/art-book-next-es) by [Anthony Caccese](https://github.com/anthonycaccese)
 
 # LICENSE CC BY-NC-SA 4.0 © SMD OFFICIAL
 
