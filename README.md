@@ -22,14 +22,11 @@ I've rearranged the UI elements, I increased the font where necessary, flat elem
 - GREY-BLUE
 - PURE-BLACK
 
-These are photos, not screenshots :
+# Screenshots :
 
 ![RED-GAMELIST](https://github.com/soaremicheledavid/ES-Theme-MINIMA/assets/157101299/be05d3ff-a9d6-4483-b3a9-65a50fc0efe5)
 
 
-![YELLOW-FRONT](https://github.com/soaremicheledavid/ES-Theme-MINIMA/assets/157101299/b4f0c0e1-662c-4275-956c-8657e5d1d918)
-
-![YELLOW-GAMELIST](https://github.com/soaremicheledavid/ES-Theme-MINIMA/assets/157101299/c9893015-0668-448f-9be8-4c8e136d6d34)
 
 ## **Acknowledgments**
 * Most system logos were sourced and modified from the excellent work done by Dan Patrick [here](https://archive.org/details/console-logos-professionally-redrawn-plus-official-versions).  They have been modified to be compatible with EmulationStation's current SVG support.
