@@ -3,15 +3,15 @@
 
    <view name="screen">
       <batteryIndicator name="batteryIndicator">
-         <pos>0 0</pos><!-- 0 15 -->
-         <size>0.978125 0.05</size><!-- 626 32 -->
+        <pos>0.92 0.001</pos>
+         <size>0.07 0.050</size>
       </batteryIndicator>
    </view>
 
    <view name="system,basic,detailed,video">s
       <helpsystem name="help">
          <origin>0 0</origin>
-         <pos>0.18 0.95</pos>
+         <pos>0.0220 0.95</pos>
          <textColor>${statusBarIconColor}</textColor>
          <iconColor>${statusBarIconColor}</iconColor>
       </helpsystem>

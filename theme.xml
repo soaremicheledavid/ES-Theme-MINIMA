@@ -68,7 +68,7 @@ author:       By SMD © 2024
          <visible>false</visible>
       </controllerActivity>
       <text name="clock">
-         <pos>1 1</pos>
+         <pos>0 0</pos>
       </text>
       <batteryIndicator name="batteryIndicator">
          <color>${statusBarIconColor}</color>
@@ -377,7 +377,7 @@ author:       By SMD © 2024
       <color>${statusBarIconColor}</color>
           <fontPath>./_inc/fonts/Oxygen-Bold.ttf</fontPath>
       <fontSize>0.039</fontSize>
-      <pos>0.02 0</pos>
+     <pos>0 0</pos>
 	  <origin>0 0</origin>
       <size>0.09 0.058</size>
       <alignment>center</alignment>
