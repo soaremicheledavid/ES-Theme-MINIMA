@@ -26,6 +26,14 @@
          <logoSize>0.7 0.5</logoSize>
          <maxLogoCount>1</maxLogoCount>
       </carousel>
+<text name="systemInfo">
+      <pos>0 0.64</pos>
+      <size>1 0.25</size>
+      <backgroundColor>00000000</backgroundColor>
+      <color>${systemLogoColor}</color>
+      <fontPath>./assets/SANS.ttf</fontPath>
+      <fontSize>0.04</fontSize>
+    </text>
       <image ifSubset="system-view-style:centered|centered-custom|centered-one-logo" name="system-art-mask" extra="true">
          <path>./_inc/images/system-art-mask-1-1.png</path>
       </image>
@@ -118,13 +126,14 @@
          <pos>0.715 0.341</pos><!-- 480 155 -->
          <maxSize ifSubset="gamelist-view-style:metadata-on">0.415 0.600</maxSize><!-- 260 250 -->
          <maxSize ifSubset="gamelist-view-style:metadata-on-immersive">1 1</maxSize><!-- 480 480 -->
+<minSize>0.347222222222222 0.663888888888889</minSize><!-- 250 478 -->
          <zIndex>2</zIndex>
       </image>
    </view>
    <view ifSubset="gamelist-view-style:metadata-on|metadata-on-immersive" name="video">
       <video name="md_video">
          <pos>0.72 0.342</pos><!-- 480 155 -->
-         <maxSize ifSubset="gamelist-view-style:metadata-on">0.410 0.550</maxSize><!-- 260 250 -->
+         <maxSize ifSubset="gamelist-view-style:metadata-on">0.541666666666667 0.722222222222222</maxSize><!-- 260 250 -->
          <maxSize ifSubset="gamelist-view-style:metadata-on-immersive">1 1</maxSize><!-- 480 480 -->
          <zIndex>2</zIndex>
       </video>
@@ -144,7 +153,7 @@
       </image>
       <video name="md_video">
          <pos>0.75 0.5</pos><!-- 480 240 -->
-         <maxSize ifSubset="gamelist-view-style:metadata-off">0.40625 0.895833333333333</maxSize><!-- 260 430 -->
+         <maxSize ifSubset="gamelist-view-style:metadata-off">0.588541666666667 0.444444444444444</maxSize><!-- 260 430 -->
          <maxSize ifSubset="gamelist-view-style:metadata-off-immersive">1.5 1.5</maxSize>
       </video>
    </view>
