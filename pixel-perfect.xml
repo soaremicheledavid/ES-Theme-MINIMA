@@ -105,7 +105,7 @@
    <view ifSubset="gamelist-view-style:metadata-on|metadata-on-immersive" name="detailed,video">
       <rating name="md_rating">
          <origin>0 0.5</origin>
-         <pos>0.500 0.795</pos><!-- 350 348 -->
+         <pos>0.500 0.799</pos><!-- 350 348 -->
          <size>0 0.041666666666667</size><!-- x 20 -->
       </rating>
       <text name="md_description">
