@@ -23,8 +23,9 @@ I've rearranged the UI elements, I increased the font where necessary, flat elem
 - GREY-BLUE
 
 # Screenshots :
+![Captură de ecran 2024-02-26 192031](https://github.com/soaremicheledavid/ES-Theme-MINIMA/assets/157101299/fd064dbc-a019-4d45-8ba8-2eac4b2c0cb1)
 
-![RED-GAMELIST](https://github.com/soaremicheledavid/ES-Theme-MINIMA/assets/157101299/be05d3ff-a9d6-4483-b3a9-65a50fc0efe5)
+![Captură de ecran 2024-02-26 192059](https://github.com/soaremicheledavid/ES-Theme-MINIMA/assets/157101299/3805b7c6-a4b3-45d6-a75f-06f89c62f87c)
 
 
 
