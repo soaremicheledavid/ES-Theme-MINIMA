@@ -27,6 +27,7 @@ I've rearranged the UI elements, I increased the font where necessary, flat elem
 
 ![Captură de ecran 2024-02-26 192059](https://github.com/soaremicheledavid/ES-Theme-MINIMA/assets/157101299/3805b7c6-a4b3-45d6-a75f-06f89c62f87c)
 
+![Captură de ecran 2024-02-26 192259](https://github.com/soaremicheledavid/ES-Theme-MINIMA/assets/157101299/7d302d18-2ee5-4497-b4ee-d73319377fa5)
 
 
 ## **Acknowledgments**
