@@ -105,11 +105,11 @@
    <view ifSubset="gamelist-view-style:metadata-on|metadata-on-immersive" name="detailed,video">
       <rating name="md_rating">
          <origin>0 0.5</origin>
-         <pos>0.500 0.786</pos><!-- 350 348 -->
+         <pos>0.500 0.795</pos><!-- 350 348 -->
          <size>0 0.041666666666667</size><!-- x 20 -->
       </rating>
       <text name="md_description">
-         <pos>0.500 0.820</pos><!-- 350 800 -->
+         <pos>0.500 0.830</pos><!-- 350 800 -->
          <size>0.480 0.104</size><!-- 260 78 -->
          <fontSize>0.033333333333333</fontSize><!-- 16 -->
          <lineSpacing>1.22</lineSpacing>
@@ -123,7 +123,7 @@
    </view>
    <view ifSubset="gamelist-view-style:metadata-on|metadata-on-immersive" name="detailed">
       <image name="md_image">
-         <pos>0.715 0.420</pos><!-- 480 155 -->
+         <pos>0.710 0.420</pos><!-- 480 155 -->
          <maxSize ifSubset="gamelist-view-style:metadata-on">0.415 0.580</maxSize><!-- 260 250 -->
          <maxSize ifSubset="gamelist-view-style:metadata-on-immersive">1 1</maxSize><!-- 480 480 -->
 <minSize>0.347222222222222 0.663888888888889</minSize><!-- 250 478 -->
