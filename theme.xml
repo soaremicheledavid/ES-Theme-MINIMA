@@ -29,10 +29,10 @@ author:       By SMD © 2024
 
    <!-- Color Scheme -->
    <subset name="color-scheme" displayName="Color Scheme">
+      <include name="black-black" displayName="Black-Black" />
       <include name="red-black" displayName="Red-Black" />
       <include name="yellow-black" displayName="Yellow-Black" />
       <include name="purple-black" displayName="Purple-Black" />
-      <include name="pure-black" displayName="Pure-Black" />
       <include name="grey-black" displayName="Grey-Black" />
       <include name="grey-purple" displayName="Grey-Purple" />
       <include name="grey-blue" displayName="Grey-Blue" />
@@ -305,6 +305,8 @@ author:       By SMD © 2024
    <view name="detailed">
       <image name="md_image">
          <origin>0.5 0.5</origin>
+         <pos>0.773611111111111 0.501388888888889</pos><!-- 557 361 -->
+         <minSize>0.347222222222222 0.663888888888889</minSize><!-- 250 478 -->
          <color ifSubset="gamelist-view-style:metadata-on-immersive|metadata-off-immersive">FFFFFF99</color>
          <zIndex>3</zIndex>
       </image>

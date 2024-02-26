@@ -177,7 +177,7 @@
       <statusBarIconColor>0a0a0a</statusBarIconColor>
    </variables>
 
-<variables ifSubset="color-scheme:pure-black">
+<variables ifSubset="color-scheme:black-black">
       <backgroundColor>000000</backgroundColor>
       <!-- System View -->
       <systemBackgroundColor>101010</systemBackgroundColor>
