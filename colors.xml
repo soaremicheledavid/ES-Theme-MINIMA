@@ -18,14 +18,14 @@
       <gamelistListTextlistUnselectedColor>696969</gamelistListTextlistUnselectedColor>
       <gamelistListMetadataColor>040404</gamelistListMetadataColor>
       <gamelistListMetadataIconColor>b41111</gamelistListMetadataIconColor>
-      <gamelistListDescriptionColor>ffffff</gamelistListDescriptionColor>
+      <gamelistListDescriptionColor>696969</gamelistListDescriptionColor>
       <gamelistListRatingColor>b41111</gamelistListRatingColor>
       <!-- Help System -->
       <helpBackgroundColor>f8f8f8</helpBackgroundColor>
       <helpIconColor>6c6c6c</helpIconColor>
       <helpTextColor>6c6c6c</helpTextColor>
       <!-- Menu System -->
-      <menuBackgroundColor>9e2020</menuBackgroundColor>
+      <menuBackgroundColor>b41111</menuBackgroundColor>
       <statusBarBackgroundColor>0a0a0a</statusBarBackgroundColor>
       <statusBarIconColor>0a0a0a</statusBarIconColor>
    </variables>
@@ -77,7 +77,7 @@
       <gamelistListTextlistUnselectedColor>696969</gamelistListTextlistUnselectedColor>
       <gamelistListMetadataColor>040404</gamelistListMetadataColor>
       <gamelistListMetadataIconColor>822ea9</gamelistListMetadataIconColor>
-      <gamelistListDescriptionColor>ffffff</gamelistListDescriptionColor>
+      <gamelistListDescriptionColor>696969</gamelistListDescriptionColor>
       <gamelistListRatingColor>822ea9</gamelistListRatingColor>
       <!-- Help System -->
       <helpBackgroundColor>ffffff</helpBackgroundColor>
