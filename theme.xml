@@ -312,21 +312,6 @@ author:       By SMD © 2024
       </image>
    </view>
 
-   <view name="big">
-      <video name="md_video">
-         <origin>0.5 0.5</origin>
-         <delay>2</delay>
-         <effect>none</effect>
-         <showSnapshotDelay>true</showSnapshotDelay>
-         <showSnapshotNoVideo>true</showSnapshotNoVideo>
-         <color ifSubset="gamelist-view-style:metadata-on-immersive">FFFFFFDD</color>
-         <color ifSubset="gamelist-view-style:metadata-off-immersive">FFFFFF99</color>
-         <zIndex>3</zIndex>
-         <loops ifSubset="gamelist-loop-video:off">0</loops>
-         <loops ifSubset="gamelist-loop-video:on">-1</loops>
-      </video>
-   </view>
-
    <view name="menu">
       <menuText name="menutitle">
          <fontPath>${fontBold}</fontPath>

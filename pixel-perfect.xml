@@ -8,7 +8,7 @@
       </batteryIndicator>
    </view>
 
-   <view name="system,basic,detailed,big">
+   <view name="system,basic,detailed">
       <helpsystem name="help">
          <origin>0 0</origin>
          <pos>0.0220 0.95</pos>
@@ -49,7 +49,7 @@
       </image>
    </view>
 
-   <view name="basic,detailed,big">
+   <view name="basic,detailed">
          <helpsystem name="help">
          <origin>0 0</origin>
          <pos>0.0220 0.95</pos>
@@ -85,7 +85,7 @@
       </textlist>
    </view>
 
-   <view name="detailed,big">
+   <view name="detailed">
       <image name="logo">
          <pos>0.25 0.11875</pos><!-- 160 55 -->
       </image>
