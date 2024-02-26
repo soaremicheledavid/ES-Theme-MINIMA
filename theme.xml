@@ -84,7 +84,7 @@ author:       By SMD © 2024
       </batteryIndicator>
    </view>
 
-   <view name="system,basic,detailed,video">
+   <view name="system,basic,detailed,big">
       <image name="logo">
          <path>./_inc/systems/${system.theme}.svg</path>
          <path ifSubset="color-scheme:custom">${themeCustomizationsPath}logos/${system.theme}.svg</path>
@@ -181,7 +181,7 @@ author:       By SMD © 2024
       </image>
    </view>
 
-   <view name="basic,detailed,video">
+   <view name="basic,detailed,big">
       <helpsystem name="help">
       <origin>0 0</origin>
       <pos>0.0220 0.95</pos>
@@ -233,7 +233,7 @@ author:       By SMD © 2024
       </image>
    </view>
 
-   <view name="detailed,video">
+   <view name="detailed,big">
       <text name="md_lbl_rating,md_lbl_developer,md_developer,md_lbl_publisher,md_publisher,md_lbl_playcount,md_playcount,md_lbl_lastplayed,md_lbl_players,md_players,md_lbl_releasedate,md_lbl_genre,md_genre,md_description,md_name,md_lbl_gametime,md_gametime">
          <origin>0 0.5</origin>
          <pos>1 1</pos>
@@ -312,7 +312,7 @@ author:       By SMD © 2024
       </image>
    </view>
 
-   <view name="video">
+   <view name="big">
       <video name="md_video">
          <origin>0.5 0.5</origin>
          <delay>2</delay>
