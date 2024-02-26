@@ -14,10 +14,10 @@ I've rearranged the UI elements, I increased the font where necessary, flat elem
 - Gamelist View Loop Video ON/OFF
   
 # Color Scheme :
+- BLACK-BLACK
 - RED-BLACK
 - YELLOW-BLACK
 - PURPLE-BLACK
-- PURE-BLACK
 - GREY-BLACK
 - GREY-PURPLE
 - GREY-BLUE
