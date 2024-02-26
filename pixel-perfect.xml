@@ -123,8 +123,8 @@
    </view>
    <view ifSubset="gamelist-view-style:metadata-on|metadata-on-immersive" name="detailed">
       <image name="md_image">
-         <pos>0.715 0.390</pos><!-- 480 155 -->
-         <maxSize ifSubset="gamelist-view-style:metadata-on">0.415 0.600</maxSize><!-- 260 250 -->
+         <pos>0.715 0.400</pos><!-- 480 155 -->
+         <maxSize ifSubset="gamelist-view-style:metadata-on">0.415 0.580</maxSize><!-- 260 250 -->
          <maxSize ifSubset="gamelist-view-style:metadata-on-immersive">1 1</maxSize><!-- 480 480 -->
 <minSize>0.347222222222222 0.663888888888889</minSize><!-- 250 478 -->
          <zIndex>2</zIndex>
