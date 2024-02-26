@@ -42,6 +42,12 @@
    </view>
 
    <view name="basic,detailed,video">
+         <helpsystem name="help">
+         <origin>0 0</origin>
+         <pos>0.0220 0.95</pos>
+         <textColor>${helpTextColor}</textColor>
+         <iconColor>${helpIconColor}</iconColor>
+         </helpsystem>
       <image name="logo">
          <maxSize>0.359375 0.104166666666667</maxSize><!-- 230 50 -->
       </image>
@@ -53,6 +59,9 @@
          <fontSize>0.039</fontSize><!-- 19 -->
          <lineSpacing>1.5125</lineSpacing>
       </textlist>
+      <batteryIndicator name="batteryIndicator">
+         <color>ffffff</color>
+         </batteryIndicator>
    </view>
 
    <view name="basic">

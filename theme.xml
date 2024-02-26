@@ -29,13 +29,14 @@ author:       By SMD © 2024
 
    <!-- Color Scheme -->
    <subset name="color-scheme" displayName="Color Scheme">
-      <include name="yellow-black" displayName="Yellow-Black" />
-      <include name="green-black" displayName="Green-Black" />
-      <include name="grey-black" displayName="Grey-Black" />
       <include name="red-black" displayName="Red-Black" />
+      <include name="yellow-black" displayName="Yellow-Black" />
+      <include name="purple-black" displayName="Purple-Black" />
+      <include name="pure-black" displayName="Pure-Black" />
+      <include name="grey-black" displayName="Grey-Black" />
       <include name="grey-purple" displayName="Grey-Purple" />
       <include name="grey-blue" displayName="Grey-Blue" />
-      <include name="pure-black" displayName="Pure-Black" />
+      
    </subset>
    <include>./colors.xml</include>
    <include ifSubset="color-scheme:custom">${themeCustomizationsPath}colors.xml</include>
@@ -127,7 +128,12 @@ author:       By SMD © 2024
          <defaultTransition>instant</defaultTransition>
       </carousel>
       <text name="systemInfo">
-         <pos>1 1</pos>
+         <pos>0 0.59</pos>
+         <size>1 0.25</size>
+         <color>fffffff</color>
+         <fontPath>./assets/SEA.ttf</fontPath>
+         <fontSize>0.03</fontSize>
+         <visible>true</visible>
       </text>
       <!-- System View Mask: Centered LOGO -->
       <image ifSubset="system-view-style:centered|centered-custom|centered-one-logo" name="system-art-mask" extra="true">
@@ -176,9 +182,17 @@ author:       By SMD © 2024
    </view>
 
    <view name="basic,detailed,video">
+      <helpsystem name="help">
+      <origin>0 0</origin>
+      <pos>0.0220 0.95</pos>
+      <textColor>ffffff</textColor>
+      <iconColor>ffffff</iconColor>
+    </helpsystem>
       <image name="logo">
          <origin>0.6 0.5</origin>
          <color>${gamelistListLogoColor}</color>
+         <textColor>ffffff</textColor>
+         <iconColor>ffffff</iconColor>
          <zIndex>5</zIndex>
       </image>
       <text name="logoText">
@@ -190,7 +204,7 @@ author:       By SMD © 2024
          <origin>0 0</origin>
          <alignment>left</alignment>
          <fontPath>${fontBold}</fontPath>
-         <selectorColor>00000000</selectorColor>
+         <selectorColor>${gamelistListTextlistSelectorColor}</selectorColor>
          <selectedColor>${gamelistListTextlistSelectedColor}</selectedColor>
          <primaryColor>${gamelistListTextlistUnselectedColor}</primaryColor>
          <secondaryColor>${gamelistListTextlistUnselectedColor}</secondaryColor>
@@ -199,13 +213,12 @@ author:       By SMD © 2024
       </textlist>
       <image name="gamelist-background" extra="true">
          <origin>0 0</origin>
-         <path>${spacerImage}</path>
+         <path>./assets/gamelist.png</path>
          <tile>true</tile>
-         <color>${gamelistListTextlistBackgroundColor}</color>
          <zIndex>4</zIndex>
       </image>
       <image name="background" extra="true">
-         <color>${backgroundColor}</color>
+         <path>./assets/gamelist.png</path>
          <zIndex>1</zIndex>
       </image>
    </view>
