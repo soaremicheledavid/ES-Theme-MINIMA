@@ -29,6 +29,8 @@ I've rearranged the UI elements, I increased the font where necessary, flat elem
 
 ![Captură de ecran 2024-02-26 192259](https://github.com/soaremicheledavid/ES-Theme-MINIMA/assets/157101299/7d302d18-2ee5-4497-b4ee-d73319377fa5)
 
+![Captură de ecran 2024-02-26 204215](https://github.com/soaremicheledavid/ES-Theme-MINIMA/assets/157101299/9d56828f-ba89-4765-ae4c-0af72ff44c4f)
+
 
 ## **Acknowledgments**
 * Most system logos were sourced and modified from the excellent work done by Dan Patrick [here](https://archive.org/details/console-logos-professionally-redrawn-plus-official-versions).  They have been modified to be compatible with EmulationStation's current SVG support.
