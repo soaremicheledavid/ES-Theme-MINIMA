@@ -8,7 +8,7 @@
       </batteryIndicator>
    </view>
 
-   <view name="system,basic,detailed,video">s
+   <view name="system,basic,detailed,big">
       <helpsystem name="help">
          <origin>0 0</origin>
          <pos>0.0220 0.95</pos>
@@ -49,7 +49,7 @@
       </image>
    </view>
 
-   <view name="basic,detailed,video">
+   <view name="basic,detailed,big">
          <helpsystem name="help">
          <origin>0 0</origin>
          <pos>0.0220 0.95</pos>
@@ -85,7 +85,7 @@
       </textlist>
    </view>
 
-   <view name="detailed,video">
+   <view name="detailed,big">
       <image name="logo">
          <pos>0.25 0.11875</pos><!-- 160 55 -->
       </image>
@@ -102,10 +102,10 @@
       </image>
    </view>
 
-   <view ifSubset="gamelist-view-style:metadata-on|metadata-on-immersive" name="detailed,video">
+   <view ifSubset="gamelist-view-style:metadata-on|metadata-on-immersive" name="detailed,big">
       <rating name="md_rating">
          <origin>0 0.5</origin>
-         <pos>0.500 0.799</pos><!-- 350 348 -->
+         <pos>0.500 0.801</pos><!-- 350 348 -->
          <size>0 0.041666666666667</size><!-- x 20 -->
       </rating>
       <text name="md_description">
@@ -123,14 +123,14 @@
    </view>
    <view ifSubset="gamelist-view-style:metadata-on|metadata-on-immersive" name="detailed">
       <image name="md_image">
-         <pos>0.710 0.420</pos><!-- 480 155 -->
-         <maxSize ifSubset="gamelist-view-style:metadata-on">0.415 0.580</maxSize><!-- 260 250 -->
+         <pos>0.710 0.410</pos><!-- 480 155 -->
+         <maxSize ifSubset="gamelist-view-style:metadata-on">0.541666666666667 0.722222222222222</maxSize><!-- 260 250 -->
          <maxSize ifSubset="gamelist-view-style:metadata-on-immersive">1 1</maxSize><!-- 480 480 -->
 <minSize>0.347222222222222 0.663888888888889</minSize><!-- 250 478 -->
          <zIndex>2</zIndex>
       </image>
    </view>
-   <view ifSubset="gamelist-view-style:metadata-on|metadata-on-immersive" name="video">
+   <view ifSubset="gamelist-view-style:metadata-on|metadata-on-immersive" name="big">
       <video name="md_video">
          <pos>0.72 0.420</pos><!-- 480 155 -->
          <maxSize ifSubset="gamelist-view-style:metadata-on">0.541666666666667 0.722222222222222</maxSize><!-- 260 250 -->
@@ -142,18 +142,18 @@
    <view ifSubset="gamelist-view-style:metadata-off|metadata-off-immersive" name="detailed">
       <image name="md_image">
          <pos>0.75 0.420</pos><!-- 480 240 -->
-         <maxSize ifSubset="gamelist-view-style:metadata-off">0.40625 0.895833333333333</maxSize><!-- 260 430 -->
+         <maxSize ifSubset="gamelist-view-style:metadata-off">0.541666666666667 0.722222222222222</maxSize><!-- 260 430 -->
          <maxSize ifSubset="gamelist-view-style:metadata-off-immersive">1.5 1.5</maxSize>
       </image>
    </view>
-   <view ifSubset="gamelist-view-style:metadata-off|metadata-off-immersive" name="video">
+   <view ifSubset="gamelist-view-style:metadata-off|metadata-off-immersive" name="big">
       <image ifSubset="gamelist-view-style:metadata-off-immersive" name="md_marquee">
          <pos>0.75 0.5</pos><!-- 480 240 -->
          <maxSize>0.4 0.9</maxSize><!-- 230 430 -->
       </image>
       <video name="md_video">
          <pos>0.75 0.5</pos><!-- 480 240 -->
-         <maxSize ifSubset="gamelist-view-style:metadata-off">0.588541666666667 0.444444444444444</maxSize><!-- 260 430 -->
+         <maxSize ifSubset="gamelist-view-style:metadata-off">0.541666666666667 0.722222222222222</maxSize><!-- 260 430 -->
          <maxSize ifSubset="gamelist-view-style:metadata-off-immersive">1.5 1.5</maxSize>
       </video>
    </view>
