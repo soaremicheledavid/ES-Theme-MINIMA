@@ -64,7 +64,7 @@
          <fontSize>0.05</fontSize>
       </text>
       <textlist name="gamelist">
-         <fontSize>0.042</fontSize><!-- 19 -->
+         <fontSize>0.0405</fontSize><!-- 19 -->
          <lineSpacing>1.5125</lineSpacing>
       </textlist>
       <batteryIndicator name="batteryIndicator">
