@@ -203,7 +203,7 @@
       <helpIconColor>ffffff</helpIconColor>
       <helpTextColor>ffffff</helpTextColor>
       <!-- Menu System -->
-      <menuBackgroundColor>080808</menuBackgroundColor>
+      <menuBackgroundColor>101010</menuBackgroundColor>
       <statusBarBackgroundColor>ffffff</statusBarBackgroundColor>
       <statusBarIconColor>ffffff</statusBarIconColor>
    </variables>
