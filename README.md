@@ -15,6 +15,7 @@ I've rearranged the UI elements, I increased the font where necessary, flat elem
   
 # Color Scheme :
 - BLACK-BLACK
+- BLACK-PINK
 - RED-BLACK
 - YELLOW-BLACK
 - PURPLE-BLACK
