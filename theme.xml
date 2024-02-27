@@ -30,6 +30,7 @@ author:       By SMD © 2024
    <!-- Color Scheme -->
    <subset name="color-scheme" displayName="Color Scheme">
       <include name="black-black" displayName="Black-Black" />
+      <include name="black-pink" displayName="Black-Pink" />
       <include name="red-black" displayName="Red-Black" />
       <include name="yellow-black" displayName="Yellow-Black" />
       <include name="purple-black" displayName="Purple-Black" />

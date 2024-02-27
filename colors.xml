@@ -29,7 +29,35 @@
       <statusBarBackgroundColor>0a0a0a</statusBarBackgroundColor>
       <statusBarIconColor>0a0a0a</statusBarIconColor>
    </variables>
-
+<variables ifSubset="color-scheme:black-pink">
+      <backgroundColor>ac2370</backgroundColor>
+      <!-- System View -->
+      <systemBackgroundColor>ac2370</systemBackgroundColor>
+      <systemCarouselBackgroundColor>101010</systemCarouselBackgroundColor>
+      <systemArtColor>ffffff</systemArtColor>
+      <systemArtSaturation>1</systemArtSaturation>
+      <systemArtFade>ac2370</systemArtFade>
+      <systemMaskColor>111111</systemMaskColor>
+      <systemLogoColor>ffffff</systemLogoColor>
+      <!-- Gamelist View - List Variants -->
+      <gamelistListTextlistBackgroundColor>040404</gamelistListTextlistBackgroundColor>
+      <gamelistListLogoColor>ac2370</gamelistListLogoColor>
+      <gamelistListTextlistSelectedColor>ffffff</gamelistListTextlistSelectedColor>
+      <gamelistListTextlistSelectorColor>ac2370</gamelistListTextlistSelectorColor>
+      <gamelistListTextlistUnselectedColor>dcdcdc</gamelistListTextlistUnselectedColor>
+      <gamelistListMetadataColor>040404</gamelistListMetadataColor>
+      <gamelistListMetadataIconColor>ac2370</gamelistListMetadataIconColor>
+      <gamelistListDescriptionColor>ffffff</gamelistListDescriptionColor>
+      <gamelistListRatingColor>ac2370</gamelistListRatingColor>
+      <!-- Help System -->
+      <helpBackgroundColor>ffffff</helpBackgroundColor>
+      <helpIconColor>ffffff</helpIconColor>
+      <helpTextColor>ffffff</helpTextColor>
+      <!-- Menu System -->
+      <menuBackgroundColor>040404</menuBackgroundColor>
+      <statusBarBackgroundColor>ffffff</statusBarBackgroundColor>
+      <statusBarIconColor>ffffff</statusBarIconColor>
+   </variables>
    <variables ifSubset="color-scheme:yellow-black">
       <backgroundColor>eabb00</backgroundColor>
       <!-- System View -->
