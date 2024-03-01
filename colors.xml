@@ -101,7 +101,7 @@
       <!-- Gamelist View - List Variants -->
       <gamelistListTextlistBackgroundColor>000000</gamelistListTextlistBackgroundColor>
       <gamelistListLogoColor>67b6ff</gamelistListLogoColor>
-      <gamelistListTextlistSelectorColor>0f1b26</gamelistListTextlistSelectorColor>
+      <gamelistListTextlistSelectorColor>274b6c</gamelistListTextlistSelectorColor>
       <gamelistListTextlistSelectedColor>ffffff</gamelistListTextlistSelectedColor>
       <gamelistListTextlistUnselectedColor>ffffff</gamelistListTextlistUnselectedColor>
       <gamelistListMetadataColor>434343</gamelistListMetadataColor>
