@@ -135,19 +135,19 @@
       <gamelistListLogoColor>822ea9</gamelistListLogoColor>
       <gamelistListTextlistSelectorColor>822ea9</gamelistListTextlistSelectorColor>
       <gamelistListTextlistSelectedColor>ffffff</gamelistListTextlistSelectedColor>
-      <gamelistListTextlistUnselectedColor>696969</gamelistListTextlistUnselectedColor>
+      <gamelistListTextlistUnselectedColor>ffffff</gamelistListTextlistUnselectedColor>
       <gamelistListMetadataColor>040404</gamelistListMetadataColor>
       <gamelistListMetadataIconColor>822ea9</gamelistListMetadataIconColor>
-      <gamelistListDescriptionColor>696969</gamelistListDescriptionColor>
+      <gamelistListDescriptionColor>ffffff</gamelistListDescriptionColor>
       <gamelistListRatingColor>822ea9</gamelistListRatingColor>
       <!-- Help System -->
       <helpBackgroundColor>ffffff</helpBackgroundColor>
-      <helpIconColor>6c6c6c</helpIconColor>
-      <helpTextColor>6c6c6c</helpTextColor>
+      <helpIconColor>ffffff</helpIconColor>
+      <helpTextColor>ffffff</helpTextColor>
       <!-- Menu System -->
       <menuBackgroundColor>111111</menuBackgroundColor>
-      <statusBarBackgroundColor>0a0a0a</statusBarBackgroundColor>
-      <statusBarIconColor>0a0a0a</statusBarIconColor>
+      <statusBarBackgroundColor>ffffff</statusBarBackgroundColor>
+      <statusBarIconColor>ffffff</statusBarIconColor>
    </variables>
 <variables ifSubset="color-scheme:grey-black">
       <backgroundColor>b5b5b5</backgroundColor>
