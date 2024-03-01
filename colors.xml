@@ -241,7 +241,7 @@
 <variables ifSubset="color-scheme:black-black">
       <backgroundColor>000000</backgroundColor>
       <!-- System View -->
-      <systemBackgroundColor>101010</systemBackgroundColor>
+      <systemBackgroundColor>151515</systemBackgroundColor>
       <systemCarouselBackgroundColor>0c0c0c</systemCarouselBackgroundColor>
       <systemArtColor>111111</systemArtColor>
       <systemArtSaturation>0</systemArtSaturation>
